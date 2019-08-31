@@ -9,7 +9,7 @@ const router = require('./routes/')
 
 const app = express()
 
-//Set enviralments
+//Set environments
 app.use(express.static(path.join(__dirname, 'public')))
 app.use('/edit/:id', express.static(path.join(__dirname, 'public')))
 

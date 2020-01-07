@@ -1,5 +1,7 @@
 # 📚 For learning: EJS-CRUD
+
 <img src="./src/public/images/index.png" />
+
 ## 🧱 Stack:
  - Nodejs (Express, EJS)
  - MongoDB
